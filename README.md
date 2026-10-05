@@ -56,6 +56,4 @@
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=1820ANKIT2029&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=1820ANKIT2029&label=Profile%20Views&color=0e75b6&style=flat)
