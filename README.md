@@ -56,4 +56,4 @@
 
 ### 📊 GitHub Stats
 
-![Profile Views](https://komarev.com/ghpvc/?username=1820ANKIT2029)
+[![Profile Views](https://komarev.com/ghpvc/?username=1820ANKIT2029&label=Profile%20Views&color=0e75b6&style=flat&v=1)](https://github.com/1820ANKIT2029)
